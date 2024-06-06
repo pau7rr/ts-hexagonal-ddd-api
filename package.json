@@ -1,0 +1,21 @@
+{
+  "name": "ts-hexagonal-ddd-api",
+  "version": "1.0.0",
+  "description": "Scaffolding para una API con Express.js y TypeScript, siguiendo principios de arquitectura hexagonal y diseño dirigido por dominios (DDD). Este proyecto proporciona una base sólida para construir aplicaciones escalables y mantenibles, demostrando buenas prácticas en el desarrollo con Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.14.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
